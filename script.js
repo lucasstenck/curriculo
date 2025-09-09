@@ -187,7 +187,6 @@ document.addEventListener('DOMContentLoaded', function() {
     addSmoothScroll();
     addEntryAnimations();
     addTooltips();
-    addPrintFunctionality();
     addDarkModeToggle();
     addPrintStyles();
     
